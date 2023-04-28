@@ -8,6 +8,5 @@ Todolist Chllenge의 1일차입니다.
 react
 react-router
 redux
-redux-toolkit
 styled-component
 ```
